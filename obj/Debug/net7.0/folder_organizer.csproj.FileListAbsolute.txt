@@ -1,0 +1,15 @@
+/home/hrqcds/dev/csharp/folder_organizer/bin/Debug/net7.0/folder_organizer
+/home/hrqcds/dev/csharp/folder_organizer/bin/Debug/net7.0/folder_organizer.deps.json
+/home/hrqcds/dev/csharp/folder_organizer/bin/Debug/net7.0/folder_organizer.runtimeconfig.json
+/home/hrqcds/dev/csharp/folder_organizer/bin/Debug/net7.0/folder_organizer.dll
+/home/hrqcds/dev/csharp/folder_organizer/bin/Debug/net7.0/folder_organizer.pdb
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.csproj.AssemblyReference.cache
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.AssemblyInfoInputs.cache
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.AssemblyInfo.cs
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.csproj.CoreCompileInputs.cache
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.dll
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/refint/folder_organizer.dll
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.pdb
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/folder_organizer.genruntimeconfig.cache
+/home/hrqcds/dev/csharp/folder_organizer/obj/Debug/net7.0/ref/folder_organizer.dll
